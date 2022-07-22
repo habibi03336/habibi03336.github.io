@@ -1,6 +1,7 @@
 ---
 
 title: Web Socket이란 무엇일까?
+date: 2022-7-7
 categories: 
     - WEB
     - network
