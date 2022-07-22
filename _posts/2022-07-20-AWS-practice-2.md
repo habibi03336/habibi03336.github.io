@@ -1,6 +1,6 @@
 ---
 
-title: [AWS 실습2] Amazon VPC 인프라 구축
+title: \[AWS 실습2\] Amazon VPC 인프라 구축
 date: 2022-7-20
 categories: 
     - AWS

@@ -1,6 +1,6 @@
 ---
 
-title: [AWS 실습1] AWS API를 사용한 EC2 인스턴스 배포
+title: \[AWS 실습1\] AWS API를 사용한 EC2 인스턴스 배포
 date: 2022-7-20
 categories: 
     - AWS

@@ -1,6 +1,6 @@
 ---
 
-title: [AWS 실습3] Amazon VPC 인프라에 데이터베이스 계층 생성 
+title: \[AWS 실습3\] Amazon VPC 인프라에 데이터베이스 계층 생성 
 date: 2022-7-20
 categories: 
     - AWS
