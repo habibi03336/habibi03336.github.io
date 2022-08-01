@@ -1,6 +1,6 @@
 ---
 
-title: [React Hook] 1. useState을 알아보자 
+title: \[React Hook\] 1. useState을 알아보자 
 date: 2022-8-1
 categories: 
     - Frontend
